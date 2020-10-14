@@ -1,3 +1,7 @@
+// Alan Fung (1-2B)
+// ClickerGame
+// Oct 8, 2020 
+
 import ddf.minim.*;
 import ddf.minim.analysis.*;
 import ddf.minim.effects.*;
